@@ -8,8 +8,9 @@ The goal is to show how **route-based weather** fits into a passenger experience
 
 This project accompanies the blog post:
 
-👉 https://wesleymatlock.com  
-👉 https://medium.com/@wesleymatlock
+👉 [https://wesleymatlock.com](https://www.wesleymatlock.com/getting-started-with-weatherkit-in-swiftui)
+
+👉 [https://medium.com/@wesleymatlock](https://medium.com/@wesleymatlock/%EF%B8%8F-getting-started-with-weatherkit-in-swiftui-a450f0c99dc4)  
 
 ---
 
